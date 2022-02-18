@@ -1,0 +1,7 @@
+{
+  "input_path": "data/othello/othello_dataset.csv",
+  "output_path": "data/othello/othello_dataset_preprocessed",
+  "random_sampling": 1,
+  "n_samples": 10000,
+  "seed": 66
+}
